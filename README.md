@@ -1,10 +1,10 @@
 # Spring_Spingboot
 
-Integrantes: Amanda Díaz -> https://github.com/Amyyinthesky/sprintjava
+Integrantes: Amanda Díaz -> https://github.com/Amyyinthesky/SprintJava2.git
 
-Nicolay López -> https://github.com/Liocan123/SprintJava.git
+Nicolay López -> https://github.com/Liocan123/Sprint_Spring
 
-Mauricio Seguel -> https://github.com/IronWesso/SprintJava
+Mauricio Seguel -> https://github.com/IronWesso/Sprint_Spring_OnWinter
 
 Constanza Vivar -> https://github.com/Constanzavm/Spring_Spingboot
 
